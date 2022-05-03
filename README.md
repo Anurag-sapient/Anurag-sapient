@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Anurag Solanki
-- 👀 I’m interested in competitive programming ,web dev and machine learning.
-- 🌱 I’m currently learning web development both for backend and frontend.
-- 📫 How to reach me ...
-
 <!---
 Anurag-sapient/Anurag-sapient is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -34,11 +29,10 @@ You can click the Preview link to take a look at your changes.
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 👋 Hi, I’m Anurag Solanki
+- 👀 I’m interested in competitive programming ,web dev and machine learning.
+- 🌱 I’m currently learning web development both for backend and frontend.
+- 📫 I also like to do competitive programming on leetcode ,geeksforgeeks ,codechef and codeforces
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
